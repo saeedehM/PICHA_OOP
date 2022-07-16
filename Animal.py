@@ -1,3 +1,4 @@
+#this is a comment
 class Dog:
     # this method is called whenever Dog is instantiated
     def __init__(self, name, age):
